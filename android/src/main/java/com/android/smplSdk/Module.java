@@ -1,5 +1,6 @@
 package com.android.smplSdk;
 
+import android.util.Log;
 import android.widget.Toast;
 
 import com.facebook.react.bridge.ReactApplicationContext;
@@ -13,6 +14,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Module extends ReactContextBaseJavaModule {
+    public static final String TAG = Module.class.getSimpleName();
 
   private static final String DURATION_SHORT_KEY = "SHORT";
   private static final String DURATION_LONG_KEY = "LONG";
@@ -38,6 +40,7 @@ public class Module extends ReactContextBaseJavaModule {
   public void isApproved(String merchantId, String mobileNumber, String emailId) {
     Simpl.init(getReactApplicationContext(), merchantId);
 
+      Log.d(TAG, "isApproved(): merchantId: "+merchantId+" mobileNumber: "+mobileNumber+" emailId: "+emailId);
     Simpl.getInstance().runInStagingMode();
     Simpl.getInstance().isUserApproved(emailId, mobileNumber)
             .execute(new SimplUserApprovalListenerV2() {
