@@ -21,6 +21,12 @@
 
     <application>
         <uses-library android:name="android.test.runner" />
+
+        <activity
+            android:name="com.simpl.android.sdk.view.activity.BaseSimplScreen"
+            android:screenOrientation="portrait"
+            android:theme="@style/SimplSdkStyle"
+            android:windowSoftInputMode="adjustResize" />
     </application>
 
 </manifest>

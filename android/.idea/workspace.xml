@@ -46,21 +46,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="582">
-              <caret line="46" column="41" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
+            <state relative-caret-position="225">
+              <caret line="37" column="38" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Module.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Module.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/android/smplSdk/Module.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="40" column="60" selection-start-line="40" selection-start-column="60" selection-end-line="40" selection-end-column="60" />
+            <state relative-caret-position="216">
+              <caret line="41" column="56" selection-start-line="41" selection-start-column="56" selection-end-line="41" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,10 +71,12 @@
       <file leaf-file-name="SimplReactPackage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/android/smplSdk/SimplReactPackage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            <state relative-caret-position="242">
+              <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#901#902#0" expanded="true" />
+                <element signature="e#928#929#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -735,7 +737,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="1508148747000" />
+        <entry key="$PROJECT_DIR$" value="1508156653000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -965,9 +967,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/android/smplSdk/Package.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/android/smplSdk/Module.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/android/smplSdk/SimplReactPackage.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/java/com/android/smplSdk/Module.java" />
       </list>
     </option>
   </component>
@@ -1329,7 +1331,7 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1408,31 +1410,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/android/smplSdk/Module.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="582">
-          <caret line="46" column="41" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
-          <folding />
+        <state relative-caret-position="216">
+          <caret line="41" column="56" selection-start-line="41" selection-start-column="56" selection-end-line="41" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/android/smplSdk/SimplReactPackage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        <state relative-caret-position="242">
+          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#901#902#0" expanded="true" />
+            <element signature="e#928#929#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/android/smplSdk/Module.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="40" column="60" selection-start-line="40" selection-start-column="60" selection-end-line="40" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="225">
+          <caret line="37" column="38" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>

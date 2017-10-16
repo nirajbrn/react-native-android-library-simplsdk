@@ -6860,8 +6860,29 @@
                     "startLine": 1289,
                     "startColumn": 4,
                     "startOffset": 102080,
+                    "endLine": 1291,
+                    "endColumn": 10,
+                    "endOffset": 102232
+                },
+                "from": {
+                    "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.simpl.android/sdk/1.1.22/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 10,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1292,
+                    "startColumn": 4,
+                    "startOffset": 102237,
                     "endColumn": 83,
-                    "endOffset": 102159
+                    "endOffset": 102316
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6876,11 +6897,11 @@
             },
             {
                 "to": {
-                    "startLine": 1290,
+                    "startLine": 1293,
                     "startColumn": 4,
-                    "startOffset": 102164,
+                    "startOffset": 102321,
                     "endColumn": 95,
-                    "endOffset": 102255
+                    "endOffset": 102412
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6895,11 +6916,11 @@
             },
             {
                 "to": {
-                    "startLine": 1291,
+                    "startLine": 1294,
                     "startColumn": 4,
-                    "startOffset": 102260,
+                    "startOffset": 102417,
                     "endColumn": 95,
-                    "endOffset": 102351
+                    "endOffset": 102508
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6914,11 +6935,11 @@
             },
             {
                 "to": {
-                    "startLine": 1292,
+                    "startLine": 1295,
                     "startColumn": 4,
-                    "startOffset": 102356,
+                    "startOffset": 102513,
                     "endColumn": 97,
-                    "endOffset": 102449
+                    "endOffset": 102606
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6933,11 +6954,11 @@
             },
             {
                 "to": {
-                    "startLine": 1293,
+                    "startLine": 1296,
                     "startColumn": 4,
-                    "startOffset": 102454,
+                    "startOffset": 102611,
                     "endColumn": 99,
-                    "endOffset": 102549
+                    "endOffset": 102706
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6952,11 +6973,11 @@
             },
             {
                 "to": {
-                    "startLine": 1294,
+                    "startLine": 1297,
                     "startColumn": 4,
-                    "startOffset": 102554,
+                    "startOffset": 102711,
                     "endColumn": 101,
-                    "endOffset": 102651
+                    "endOffset": 102808
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6971,11 +6992,11 @@
             },
             {
                 "to": {
-                    "startLine": 1295,
+                    "startLine": 1298,
                     "startColumn": 4,
-                    "startOffset": 102656,
+                    "startOffset": 102813,
                     "endColumn": 101,
-                    "endOffset": 102753
+                    "endOffset": 102910
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -6990,11 +7011,11 @@
             },
             {
                 "to": {
-                    "startLine": 1296,
+                    "startLine": 1299,
                     "startColumn": 4,
-                    "startOffset": 102758,
+                    "startOffset": 102915,
                     "endColumn": 101,
-                    "endOffset": 102855
+                    "endOffset": 103012
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7009,11 +7030,11 @@
             },
             {
                 "to": {
-                    "startLine": 1297,
+                    "startLine": 1300,
                     "startColumn": 4,
-                    "startOffset": 102860,
+                    "startOffset": 103017,
                     "endColumn": 101,
-                    "endOffset": 102957
+                    "endOffset": 103114
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7028,11 +7049,11 @@
             },
             {
                 "to": {
-                    "startLine": 1298,
+                    "startLine": 1301,
                     "startColumn": 4,
-                    "startOffset": 102962,
+                    "startOffset": 103119,
                     "endColumn": 101,
-                    "endOffset": 103059
+                    "endOffset": 103216
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7047,11 +7068,11 @@
             },
             {
                 "to": {
-                    "startLine": 1299,
+                    "startLine": 1302,
                     "startColumn": 4,
-                    "startOffset": 103064,
+                    "startOffset": 103221,
                     "endColumn": 99,
-                    "endOffset": 103159
+                    "endOffset": 103316
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7066,11 +7087,11 @@
             },
             {
                 "to": {
-                    "startLine": 1300,
+                    "startLine": 1303,
                     "startColumn": 4,
-                    "startOffset": 103164,
+                    "startOffset": 103321,
                     "endColumn": 95,
-                    "endOffset": 103255
+                    "endOffset": 103412
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7085,11 +7106,11 @@
             },
             {
                 "to": {
-                    "startLine": 1301,
+                    "startLine": 1304,
                     "startColumn": 4,
-                    "startOffset": 103260,
+                    "startOffset": 103417,
                     "endColumn": 111,
-                    "endOffset": 103367
+                    "endOffset": 103524
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7104,11 +7125,11 @@
             },
             {
                 "to": {
-                    "startLine": 1302,
+                    "startLine": 1305,
                     "startColumn": 4,
-                    "startOffset": 103372,
+                    "startOffset": 103529,
                     "endColumn": 128,
-                    "endOffset": 103496
+                    "endOffset": 103653
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7123,11 +7144,11 @@
             },
             {
                 "to": {
-                    "startLine": 1303,
+                    "startLine": 1306,
                     "startColumn": 4,
-                    "startOffset": 103501,
+                    "startOffset": 103658,
                     "endColumn": 122,
-                    "endOffset": 103619
+                    "endOffset": 103776
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7142,12 +7163,12 @@
             },
             {
                 "to": {
-                    "startLine": 1304,
+                    "startLine": 1307,
                     "startColumn": 4,
-                    "startOffset": 103624,
-                    "endLine": 1305,
+                    "startOffset": 103781,
+                    "endLine": 1308,
                     "endColumn": 12,
-                    "endOffset": 103773
+                    "endOffset": 103930
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7163,12 +7184,12 @@
             },
             {
                 "to": {
-                    "startLine": 1306,
+                    "startLine": 1309,
                     "startColumn": 4,
-                    "startOffset": 103778,
-                    "endLine": 1307,
+                    "startOffset": 103935,
+                    "endLine": 1310,
                     "endColumn": 12,
-                    "endOffset": 103927
+                    "endOffset": 104084
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7184,11 +7205,11 @@
             },
             {
                 "to": {
-                    "startLine": 1308,
+                    "startLine": 1311,
                     "startColumn": 4,
-                    "startOffset": 103932,
+                    "startOffset": 104089,
                     "endColumn": 97,
-                    "endOffset": 104025
+                    "endOffset": 104182
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7203,11 +7224,11 @@
             },
             {
                 "to": {
-                    "startLine": 1309,
+                    "startLine": 1312,
                     "startColumn": 4,
-                    "startOffset": 104030,
+                    "startOffset": 104187,
                     "endColumn": 113,
-                    "endOffset": 104139
+                    "endOffset": 104296
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7222,11 +7243,11 @@
             },
             {
                 "to": {
-                    "startLine": 1310,
+                    "startLine": 1313,
                     "startColumn": 4,
-                    "startOffset": 104144,
+                    "startOffset": 104301,
                     "endColumn": 93,
-                    "endOffset": 104233
+                    "endOffset": 104390
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7241,12 +7262,12 @@
             },
             {
                 "to": {
-                    "startLine": 1311,
+                    "startLine": 1314,
                     "startColumn": 4,
-                    "startOffset": 104238,
-                    "endLine": 1312,
+                    "startOffset": 104395,
+                    "endLine": 1315,
                     "endColumn": 12,
-                    "endOffset": 104373
+                    "endOffset": 104530
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7262,12 +7283,12 @@
             },
             {
                 "to": {
-                    "startLine": 1313,
+                    "startLine": 1316,
                     "startColumn": 4,
-                    "startOffset": 104378,
-                    "endLine": 1314,
+                    "startOffset": 104535,
+                    "endLine": 1317,
                     "endColumn": 12,
-                    "endOffset": 104507
+                    "endOffset": 104664
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7283,11 +7304,11 @@
             },
             {
                 "to": {
-                    "startLine": 1315,
+                    "startLine": 1318,
                     "startColumn": 4,
-                    "startOffset": 104512,
+                    "startOffset": 104669,
                     "endColumn": 95,
-                    "endOffset": 104603
+                    "endOffset": 104760
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7302,11 +7323,11 @@
             },
             {
                 "to": {
-                    "startLine": 1316,
+                    "startLine": 1319,
                     "startColumn": 4,
-                    "startOffset": 104608,
+                    "startOffset": 104765,
                     "endColumn": 111,
-                    "endOffset": 104715
+                    "endOffset": 104872
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7321,11 +7342,11 @@
             },
             {
                 "to": {
-                    "startLine": 1317,
+                    "startLine": 1320,
                     "startColumn": 4,
-                    "startOffset": 104720,
+                    "startOffset": 104877,
                     "endColumn": 99,
-                    "endOffset": 104815
+                    "endOffset": 104972
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7340,11 +7361,11 @@
             },
             {
                 "to": {
-                    "startLine": 1318,
+                    "startLine": 1321,
                     "startColumn": 4,
-                    "startOffset": 104820,
+                    "startOffset": 104977,
                     "endColumn": 115,
-                    "endOffset": 104931
+                    "endOffset": 105088
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7359,11 +7380,11 @@
             },
             {
                 "to": {
-                    "startLine": 1319,
+                    "startLine": 1322,
                     "startColumn": 4,
-                    "startOffset": 104936,
+                    "startOffset": 105093,
                     "endColumn": 95,
-                    "endOffset": 105027
+                    "endOffset": 105184
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7378,11 +7399,11 @@
             },
             {
                 "to": {
-                    "startLine": 1320,
+                    "startLine": 1323,
                     "startColumn": 4,
-                    "startOffset": 105032,
+                    "startOffset": 105189,
                     "endColumn": 111,
-                    "endOffset": 105139
+                    "endOffset": 105296
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7397,12 +7418,12 @@
             },
             {
                 "to": {
-                    "startLine": 1321,
+                    "startLine": 1324,
                     "startColumn": 4,
-                    "startOffset": 105144,
-                    "endLine": 1322,
+                    "startOffset": 105301,
+                    "endLine": 1325,
                     "endColumn": 12,
-                    "endOffset": 105279
+                    "endOffset": 105436
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7418,11 +7439,11 @@
             },
             {
                 "to": {
-                    "startLine": 1323,
+                    "startLine": 1326,
                     "startColumn": 4,
-                    "startOffset": 105284,
+                    "startOffset": 105441,
                     "endColumn": 135,
-                    "endOffset": 105415
+                    "endOffset": 105572
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7437,12 +7458,12 @@
             },
             {
                 "to": {
-                    "startLine": 1324,
+                    "startLine": 1327,
                     "startColumn": 4,
-                    "startOffset": 105420,
-                    "endLine": 1325,
+                    "startOffset": 105577,
+                    "endLine": 1328,
                     "endColumn": 12,
-                    "endOffset": 105579
+                    "endOffset": 105736
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7458,11 +7479,11 @@
             },
             {
                 "to": {
-                    "startLine": 1326,
+                    "startLine": 1329,
                     "startColumn": 4,
-                    "startOffset": 105584,
+                    "startOffset": 105741,
                     "endColumn": 129,
-                    "endOffset": 105709
+                    "endOffset": 105866
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7477,12 +7498,12 @@
             },
             {
                 "to": {
-                    "startLine": 1327,
+                    "startLine": 1330,
                     "startColumn": 4,
-                    "startOffset": 105714,
-                    "endLine": 1328,
+                    "startOffset": 105871,
+                    "endLine": 1331,
                     "endColumn": 12,
-                    "endOffset": 105867
+                    "endOffset": 106024
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7498,12 +7519,12 @@
             },
             {
                 "to": {
-                    "startLine": 1329,
+                    "startLine": 1332,
                     "startColumn": 4,
-                    "startOffset": 105872,
-                    "endLine": 1330,
+                    "startOffset": 106029,
+                    "endLine": 1333,
                     "endColumn": 12,
-                    "endOffset": 106017
+                    "endOffset": 106174
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7519,11 +7540,11 @@
             },
             {
                 "to": {
-                    "startLine": 1331,
+                    "startLine": 1334,
                     "startColumn": 4,
-                    "startOffset": 106022,
+                    "startOffset": 106179,
                     "endColumn": 140,
-                    "endOffset": 106158
+                    "endOffset": 106315
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7538,12 +7559,12 @@
             },
             {
                 "to": {
-                    "startLine": 1332,
+                    "startLine": 1335,
                     "startColumn": 4,
-                    "startOffset": 106163,
-                    "endLine": 1333,
+                    "startOffset": 106320,
+                    "endLine": 1336,
                     "endColumn": 12,
-                    "endOffset": 106302
+                    "endOffset": 106459
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7559,11 +7580,11 @@
             },
             {
                 "to": {
-                    "startLine": 1334,
+                    "startLine": 1337,
                     "startColumn": 4,
-                    "startOffset": 106307,
+                    "startOffset": 106464,
                     "endColumn": 134,
-                    "endOffset": 106437
+                    "endOffset": 106594
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7578,11 +7599,11 @@
             },
             {
                 "to": {
-                    "startLine": 1335,
+                    "startLine": 1338,
                     "startColumn": 4,
-                    "startOffset": 106442,
+                    "startOffset": 106599,
                     "endColumn": 111,
-                    "endOffset": 106549
+                    "endOffset": 106706
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7597,11 +7618,11 @@
             },
             {
                 "to": {
-                    "startLine": 1336,
+                    "startLine": 1339,
                     "startColumn": 4,
-                    "startOffset": 106554,
+                    "startOffset": 106711,
                     "endColumn": 127,
-                    "endOffset": 106677
+                    "endOffset": 106834
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7616,12 +7637,12 @@
             },
             {
                 "to": {
-                    "startLine": 1337,
+                    "startLine": 1340,
                     "startColumn": 4,
-                    "startOffset": 106682,
-                    "endLine": 1338,
+                    "startOffset": 106839,
+                    "endLine": 1341,
                     "endColumn": 12,
-                    "endOffset": 106813
+                    "endOffset": 106970
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7637,12 +7658,12 @@
             },
             {
                 "to": {
-                    "startLine": 1339,
+                    "startLine": 1342,
                     "startColumn": 4,
-                    "startOffset": 106818,
-                    "endLine": 1340,
+                    "startOffset": 106975,
+                    "endLine": 1343,
                     "endColumn": 12,
-                    "endOffset": 106955
+                    "endOffset": 107112
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7658,12 +7679,12 @@
             },
             {
                 "to": {
-                    "startLine": 1341,
+                    "startLine": 1344,
                     "startColumn": 4,
-                    "startOffset": 106960,
-                    "endLine": 1342,
+                    "startOffset": 107117,
+                    "endLine": 1345,
                     "endColumn": 12,
-                    "endOffset": 107097
+                    "endOffset": 107254
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7679,11 +7700,11 @@
             },
             {
                 "to": {
-                    "startLine": 1343,
+                    "startLine": 1346,
                     "startColumn": 4,
-                    "startOffset": 107102,
+                    "startOffset": 107259,
                     "endColumn": 111,
-                    "endOffset": 107209
+                    "endOffset": 107366
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7698,11 +7719,11 @@
             },
             {
                 "to": {
-                    "startLine": 1344,
+                    "startLine": 1347,
                     "startColumn": 4,
-                    "startOffset": 107214,
+                    "startOffset": 107371,
                     "endColumn": 139,
-                    "endOffset": 107349
+                    "endOffset": 107506
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7717,11 +7738,11 @@
             },
             {
                 "to": {
-                    "startLine": 1345,
+                    "startLine": 1348,
                     "startColumn": 4,
-                    "startOffset": 107354,
+                    "startOffset": 107511,
                     "endColumn": 67,
-                    "endOffset": 107417
+                    "endOffset": 107574
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7736,11 +7757,11 @@
             },
             {
                 "to": {
-                    "startLine": 1346,
+                    "startLine": 1349,
                     "startColumn": 4,
-                    "startOffset": 107422,
+                    "startOffset": 107579,
                     "endColumn": 72,
-                    "endOffset": 107490
+                    "endOffset": 107647
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7755,11 +7776,11 @@
             },
             {
                 "to": {
-                    "startLine": 1347,
+                    "startLine": 1350,
                     "startColumn": 4,
-                    "startOffset": 107495,
+                    "startOffset": 107652,
                     "endColumn": 73,
-                    "endOffset": 107564
+                    "endOffset": 107721
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7774,11 +7795,11 @@
             },
             {
                 "to": {
-                    "startLine": 1348,
+                    "startLine": 1351,
                     "startColumn": 4,
-                    "startOffset": 107569,
+                    "startOffset": 107726,
                     "endColumn": 72,
-                    "endOffset": 107637
+                    "endOffset": 107794
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7793,11 +7814,11 @@
             },
             {
                 "to": {
-                    "startLine": 1349,
+                    "startLine": 1352,
                     "startColumn": 4,
-                    "startOffset": 107642,
+                    "startOffset": 107799,
                     "endColumn": 73,
-                    "endOffset": 107711
+                    "endOffset": 107868
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7812,12 +7833,12 @@
             },
             {
                 "to": {
-                    "startLine": 1350,
+                    "startLine": 1353,
                     "startColumn": 4,
-                    "startOffset": 107716,
-                    "endLine": 1351,
+                    "startOffset": 107873,
+                    "endLine": 1354,
                     "endColumn": 12,
-                    "endOffset": 107857
+                    "endOffset": 108014
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7833,12 +7854,12 @@
             },
             {
                 "to": {
-                    "startLine": 1352,
+                    "startLine": 1355,
                     "startColumn": 4,
-                    "startOffset": 107862,
-                    "endLine": 1353,
+                    "startOffset": 108019,
+                    "endLine": 1356,
                     "endColumn": 12,
-                    "endOffset": 108001
+                    "endOffset": 108158
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7854,12 +7875,12 @@
             },
             {
                 "to": {
-                    "startLine": 1354,
+                    "startLine": 1357,
                     "startColumn": 4,
-                    "startOffset": 108006,
-                    "endLine": 1355,
+                    "startOffset": 108163,
+                    "endLine": 1358,
                     "endColumn": 12,
-                    "endOffset": 108139
+                    "endOffset": 108296
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7875,11 +7896,11 @@
             },
             {
                 "to": {
-                    "startLine": 1356,
+                    "startLine": 1359,
                     "startColumn": 4,
-                    "startOffset": 108144,
+                    "startOffset": 108301,
                     "endColumn": 25,
-                    "endOffset": 108165
+                    "endOffset": 108322
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.20.1/res/values/values.xml",
@@ -7894,11 +7915,11 @@
             },
             {
                 "to": {
-                    "startLine": 1357,
+                    "startLine": 1360,
                     "startColumn": 4,
-                    "startOffset": 108170,
+                    "startOffset": 108327,
                     "endColumn": 65,
-                    "endOffset": 108231
+                    "endOffset": 108388
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7913,11 +7934,11 @@
             },
             {
                 "to": {
-                    "startLine": 1358,
+                    "startLine": 1361,
                     "startColumn": 4,
-                    "startOffset": 108236,
+                    "startOffset": 108393,
                     "endColumn": 89,
-                    "endOffset": 108321
+                    "endOffset": 108478
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7932,11 +7953,11 @@
             },
             {
                 "to": {
-                    "startLine": 1359,
+                    "startLine": 1362,
                     "startColumn": 4,
-                    "startOffset": 108326,
+                    "startOffset": 108483,
                     "endColumn": 79,
-                    "endOffset": 108401
+                    "endOffset": 108558
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7951,11 +7972,11 @@
             },
             {
                 "to": {
-                    "startLine": 1360,
+                    "startLine": 1363,
                     "startColumn": 4,
-                    "startOffset": 108406,
+                    "startOffset": 108563,
                     "endColumn": 91,
-                    "endOffset": 108493
+                    "endOffset": 108650
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7970,11 +7991,11 @@
             },
             {
                 "to": {
-                    "startLine": 1361,
+                    "startLine": 1364,
                     "startColumn": 4,
-                    "startOffset": 108498,
+                    "startOffset": 108655,
                     "endColumn": 97,
-                    "endOffset": 108591
+                    "endOffset": 108748
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -7989,12 +8010,12 @@
             },
             {
                 "to": {
-                    "startLine": 1362,
+                    "startLine": 1365,
                     "startColumn": 4,
-                    "startOffset": 108596,
-                    "endLine": 1363,
+                    "startOffset": 108753,
+                    "endLine": 1366,
                     "endColumn": 12,
-                    "endOffset": 108701
+                    "endOffset": 108858
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8010,11 +8031,11 @@
             },
             {
                 "to": {
-                    "startLine": 1364,
+                    "startLine": 1367,
                     "startColumn": 4,
-                    "startOffset": 108706,
+                    "startOffset": 108863,
                     "endColumn": 77,
-                    "endOffset": 108779
+                    "endOffset": 108936
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8029,11 +8050,11 @@
             },
             {
                 "to": {
-                    "startLine": 1365,
+                    "startLine": 1368,
                     "startColumn": 4,
-                    "startOffset": 108784,
+                    "startOffset": 108941,
                     "endColumn": 105,
-                    "endOffset": 108885
+                    "endOffset": 109042
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8048,11 +8069,11 @@
             },
             {
                 "to": {
-                    "startLine": 1366,
+                    "startLine": 1369,
                     "startColumn": 4,
-                    "startOffset": 108890,
+                    "startOffset": 109047,
                     "endColumn": 91,
-                    "endOffset": 108977
+                    "endOffset": 109134
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8067,11 +8088,11 @@
             },
             {
                 "to": {
-                    "startLine": 1367,
+                    "startLine": 1370,
                     "startColumn": 4,
-                    "startOffset": 108982,
+                    "startOffset": 109139,
                     "endColumn": 103,
-                    "endOffset": 109081
+                    "endOffset": 109238
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8086,11 +8107,11 @@
             },
             {
                 "to": {
-                    "startLine": 1368,
+                    "startLine": 1371,
                     "startColumn": 4,
-                    "startOffset": 109086,
+                    "startOffset": 109243,
                     "endColumn": 109,
-                    "endOffset": 109191
+                    "endOffset": 109348
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8105,12 +8126,12 @@
             },
             {
                 "to": {
-                    "startLine": 1369,
+                    "startLine": 1372,
                     "startColumn": 4,
-                    "startOffset": 109196,
-                    "endLine": 1370,
+                    "startOffset": 109353,
+                    "endLine": 1373,
                     "endColumn": 12,
-                    "endOffset": 109313
+                    "endOffset": 109470
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8126,12 +8147,12 @@
             },
             {
                 "to": {
-                    "startLine": 1371,
+                    "startLine": 1374,
                     "startColumn": 4,
-                    "startOffset": 109318,
-                    "endLine": 1374,
+                    "startOffset": 109475,
+                    "endLine": 1377,
                     "endColumn": 12,
-                    "endOffset": 109476
+                    "endOffset": 109633
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8147,12 +8168,12 @@
             },
             {
                 "to": {
-                    "startLine": 1375,
+                    "startLine": 1378,
                     "startColumn": 4,
-                    "startOffset": 109481,
-                    "endLine": 1378,
+                    "startOffset": 109638,
+                    "endLine": 1381,
                     "endColumn": 12,
-                    "endOffset": 109633
+                    "endOffset": 109790
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8168,11 +8189,11 @@
             },
             {
                 "to": {
-                    "startLine": 1379,
+                    "startLine": 1382,
                     "startColumn": 4,
-                    "startOffset": 109638,
+                    "startOffset": 109795,
                     "endColumn": 34,
-                    "endOffset": 109668
+                    "endOffset": 109825
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.20.1/res/values/values.xml",
@@ -8187,12 +8208,12 @@
             },
             {
                 "to": {
-                    "startLine": 1380,
+                    "startLine": 1383,
                     "startColumn": 4,
-                    "startOffset": 109673,
-                    "endLine": 1386,
+                    "startOffset": 109830,
+                    "endLine": 1389,
                     "endColumn": 10,
-                    "endOffset": 110134
+                    "endOffset": 110291
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.20.1/res/values/values.xml",
@@ -8208,12 +8229,12 @@
             },
             {
                 "to": {
-                    "startLine": 1387,
+                    "startLine": 1390,
                     "startColumn": 4,
-                    "startOffset": 110139,
-                    "endLine": 1389,
+                    "startOffset": 110296,
+                    "endLine": 1392,
                     "endColumn": 12,
-                    "endOffset": 110317
+                    "endOffset": 110474
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.20.1/res/values/values.xml",
@@ -8229,12 +8250,12 @@
             },
             {
                 "to": {
-                    "startLine": 1390,
+                    "startLine": 1393,
                     "startColumn": 4,
-                    "startOffset": 110322,
-                    "endLine": 1395,
+                    "startOffset": 110479,
+                    "endLine": 1398,
                     "endColumn": 12,
-                    "endOffset": 110682
+                    "endOffset": 110839
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.20.1/res/values/values.xml",
@@ -8250,11 +8271,11 @@
             },
             {
                 "to": {
-                    "startLine": 1396,
+                    "startLine": 1399,
                     "startColumn": 4,
-                    "startOffset": 110687,
+                    "startOffset": 110844,
                     "endColumn": 79,
-                    "endOffset": 110762
+                    "endOffset": 110919
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8269,11 +8290,11 @@
             },
             {
                 "to": {
-                    "startLine": 1397,
+                    "startLine": 1400,
                     "startColumn": 4,
-                    "startOffset": 110767,
+                    "startOffset": 110924,
                     "endColumn": 99,
-                    "endOffset": 110862
+                    "endOffset": 111019
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8288,11 +8309,11 @@
             },
             {
                 "to": {
-                    "startLine": 1398,
+                    "startLine": 1401,
                     "startColumn": 4,
-                    "startOffset": 110867,
+                    "startOffset": 111024,
                     "endColumn": 89,
-                    "endOffset": 110952
+                    "endOffset": 111109
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8307,11 +8328,11 @@
             },
             {
                 "to": {
-                    "startLine": 1399,
+                    "startLine": 1402,
                     "startColumn": 4,
-                    "startOffset": 110957,
+                    "startOffset": 111114,
                     "endColumn": 109,
-                    "endOffset": 111062
+                    "endOffset": 111219
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8326,11 +8347,11 @@
             },
             {
                 "to": {
-                    "startLine": 1400,
+                    "startLine": 1403,
                     "startColumn": 4,
-                    "startOffset": 111067,
+                    "startOffset": 111224,
                     "endColumn": 91,
-                    "endOffset": 111154
+                    "endOffset": 111311
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8345,12 +8366,12 @@
             },
             {
                 "to": {
-                    "startLine": 1401,
+                    "startLine": 1404,
                     "startColumn": 4,
-                    "startOffset": 111159,
-                    "endLine": 1402,
+                    "startOffset": 111316,
+                    "endLine": 1405,
                     "endColumn": 12,
-                    "endOffset": 111254
+                    "endOffset": 111411
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8366,12 +8387,12 @@
             },
             {
                 "to": {
-                    "startLine": 1403,
+                    "startLine": 1406,
                     "startColumn": 4,
-                    "startOffset": 111259,
-                    "endLine": 1404,
+                    "startOffset": 111416,
+                    "endLine": 1407,
                     "endColumn": 12,
-                    "endOffset": 111366
+                    "endOffset": 111523
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8387,12 +8408,12 @@
             },
             {
                 "to": {
-                    "startLine": 1405,
+                    "startLine": 1408,
                     "startColumn": 4,
-                    "startOffset": 111371,
-                    "endLine": 1406,
+                    "startOffset": 111528,
+                    "endLine": 1409,
                     "endColumn": 12,
-                    "endOffset": 111480
+                    "endOffset": 111637
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8408,12 +8429,12 @@
             },
             {
                 "to": {
-                    "startLine": 1407,
+                    "startLine": 1410,
                     "startColumn": 4,
-                    "startOffset": 111485,
-                    "endLine": 1408,
+                    "startOffset": 111642,
+                    "endLine": 1411,
                     "endColumn": 12,
-                    "endOffset": 111596
+                    "endOffset": 111753
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8429,12 +8450,12 @@
             },
             {
                 "to": {
-                    "startLine": 1409,
+                    "startLine": 1412,
                     "startColumn": 4,
-                    "startOffset": 111601,
-                    "endLine": 1410,
+                    "startOffset": 111758,
+                    "endLine": 1413,
                     "endColumn": 12,
-                    "endOffset": 111712
+                    "endOffset": 111869
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8450,11 +8471,11 @@
             },
             {
                 "to": {
-                    "startLine": 1411,
+                    "startLine": 1414,
                     "startColumn": 4,
-                    "startOffset": 111717,
+                    "startOffset": 111874,
                     "endColumn": 93,
-                    "endOffset": 111806
+                    "endOffset": 111963
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8469,11 +8490,11 @@
             },
             {
                 "to": {
-                    "startLine": 1412,
+                    "startLine": 1415,
                     "startColumn": 4,
-                    "startOffset": 111811,
+                    "startOffset": 111968,
                     "endColumn": 113,
-                    "endOffset": 111920
+                    "endOffset": 112077
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8488,11 +8509,11 @@
             },
             {
                 "to": {
-                    "startLine": 1413,
+                    "startLine": 1416,
                     "startColumn": 4,
-                    "startOffset": 111925,
+                    "startOffset": 112082,
                     "endColumn": 117,
-                    "endOffset": 112038
+                    "endOffset": 112195
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8507,12 +8528,12 @@
             },
             {
                 "to": {
-                    "startLine": 1414,
+                    "startLine": 1417,
                     "startColumn": 4,
-                    "startOffset": 112043,
-                    "endLine": 1415,
+                    "startOffset": 112200,
+                    "endLine": 1418,
                     "endColumn": 12,
-                    "endOffset": 112140
+                    "endOffset": 112297
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8528,12 +8549,12 @@
             },
             {
                 "to": {
-                    "startLine": 1416,
+                    "startLine": 1419,
                     "startColumn": 4,
-                    "startOffset": 112145,
-                    "endLine": 1417,
+                    "startOffset": 112302,
+                    "endLine": 1420,
                     "endColumn": 12,
-                    "endOffset": 112260
+                    "endOffset": 112417
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8549,12 +8570,12 @@
             },
             {
                 "to": {
-                    "startLine": 1418,
+                    "startLine": 1421,
                     "startColumn": 4,
-                    "startOffset": 112265,
-                    "endLine": 1419,
+                    "startOffset": 112422,
+                    "endLine": 1422,
                     "endColumn": 12,
-                    "endOffset": 112382
+                    "endOffset": 112539
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8570,11 +8591,11 @@
             },
             {
                 "to": {
-                    "startLine": 1420,
+                    "startLine": 1423,
                     "startColumn": 4,
-                    "startOffset": 112387,
+                    "startOffset": 112544,
                     "endColumn": 81,
-                    "endOffset": 112464
+                    "endOffset": 112621
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8589,11 +8610,11 @@
             },
             {
                 "to": {
-                    "startLine": 1421,
+                    "startLine": 1424,
                     "startColumn": 4,
-                    "startOffset": 112469,
+                    "startOffset": 112626,
                     "endColumn": 103,
-                    "endOffset": 112568
+                    "endOffset": 112725
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8608,11 +8629,11 @@
             },
             {
                 "to": {
-                    "startLine": 1422,
+                    "startLine": 1425,
                     "startColumn": 4,
-                    "startOffset": 112573,
+                    "startOffset": 112730,
                     "endColumn": 119,
-                    "endOffset": 112688
+                    "endOffset": 112845
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8627,11 +8648,11 @@
             },
             {
                 "to": {
-                    "startLine": 1423,
+                    "startLine": 1426,
                     "startColumn": 4,
-                    "startOffset": 112693,
+                    "startOffset": 112850,
                     "endColumn": 125,
-                    "endOffset": 112814
+                    "endOffset": 112971
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8646,11 +8667,11 @@
             },
             {
                 "to": {
-                    "startLine": 1424,
+                    "startLine": 1427,
                     "startColumn": 4,
-                    "startOffset": 112819,
+                    "startOffset": 112976,
                     "endColumn": 97,
-                    "endOffset": 112912
+                    "endOffset": 113069
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8665,11 +8686,11 @@
             },
             {
                 "to": {
-                    "startLine": 1425,
+                    "startLine": 1428,
                     "startColumn": 4,
-                    "startOffset": 112917,
+                    "startOffset": 113074,
                     "endColumn": 93,
-                    "endOffset": 113006
+                    "endOffset": 113163
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8684,11 +8705,11 @@
             },
             {
                 "to": {
-                    "startLine": 1426,
+                    "startLine": 1429,
                     "startColumn": 4,
-                    "startOffset": 113011,
+                    "startOffset": 113168,
                     "endColumn": 87,
-                    "endOffset": 113094
+                    "endOffset": 113251
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8703,11 +8724,11 @@
             },
             {
                 "to": {
-                    "startLine": 1427,
+                    "startLine": 1430,
                     "startColumn": 4,
-                    "startOffset": 113099,
+                    "startOffset": 113256,
                     "endColumn": 111,
-                    "endOffset": 113206
+                    "endOffset": 113363
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8722,11 +8743,11 @@
             },
             {
                 "to": {
-                    "startLine": 1428,
+                    "startLine": 1431,
                     "startColumn": 4,
-                    "startOffset": 113211,
+                    "startOffset": 113368,
                     "endColumn": 115,
-                    "endOffset": 113322
+                    "endOffset": 113479
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8741,11 +8762,11 @@
             },
             {
                 "to": {
-                    "startLine": 1429,
+                    "startLine": 1432,
                     "startColumn": 4,
-                    "startOffset": 113327,
+                    "startOffset": 113484,
                     "endColumn": 121,
-                    "endOffset": 113444
+                    "endOffset": 113601
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8760,11 +8781,11 @@
             },
             {
                 "to": {
-                    "startLine": 1430,
+                    "startLine": 1433,
                     "startColumn": 4,
-                    "startOffset": 113449,
+                    "startOffset": 113606,
                     "endColumn": 111,
-                    "endOffset": 113556
+                    "endOffset": 113713
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8779,12 +8800,12 @@
             },
             {
                 "to": {
-                    "startLine": 1431,
+                    "startLine": 1434,
                     "startColumn": 4,
-                    "startOffset": 113561,
-                    "endLine": 1433,
+                    "startOffset": 113718,
+                    "endLine": 1436,
                     "endColumn": 12,
-                    "endOffset": 113731
+                    "endOffset": 113888
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8800,11 +8821,11 @@
             },
             {
                 "to": {
-                    "startLine": 1434,
+                    "startLine": 1437,
                     "startColumn": 4,
-                    "startOffset": 113736,
+                    "startOffset": 113893,
                     "endColumn": 115,
-                    "endOffset": 113847
+                    "endOffset": 114004
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8819,11 +8840,11 @@
             },
             {
                 "to": {
-                    "startLine": 1435,
+                    "startLine": 1438,
                     "startColumn": 4,
-                    "startOffset": 113852,
+                    "startOffset": 114009,
                     "endColumn": 85,
-                    "endOffset": 113933
+                    "endOffset": 114090
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8838,12 +8859,12 @@
             },
             {
                 "to": {
-                    "startLine": 1436,
+                    "startLine": 1439,
                     "startColumn": 4,
-                    "startOffset": 113938,
-                    "endLine": 1437,
+                    "startOffset": 114095,
+                    "endLine": 1440,
                     "endColumn": 12,
-                    "endOffset": 114045
+                    "endOffset": 114202
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8859,12 +8880,12 @@
             },
             {
                 "to": {
-                    "startLine": 1438,
+                    "startLine": 1441,
                     "startColumn": 4,
-                    "startOffset": 114050,
-                    "endLine": 1439,
+                    "startOffset": 114207,
+                    "endLine": 1442,
                     "endColumn": 12,
-                    "endOffset": 114169
+                    "endOffset": 114326
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8880,11 +8901,11 @@
             },
             {
                 "to": {
-                    "startLine": 1440,
+                    "startLine": 1443,
                     "startColumn": 4,
-                    "startOffset": 114174,
+                    "startOffset": 114331,
                     "endColumn": 66,
-                    "endOffset": 114236
+                    "endOffset": 114393
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8899,12 +8920,12 @@
             },
             {
                 "to": {
-                    "startLine": 1441,
+                    "startLine": 1444,
                     "startColumn": 4,
-                    "startOffset": 114241,
-                    "endLine": 1442,
+                    "startOffset": 114398,
+                    "endLine": 1445,
                     "endColumn": 12,
-                    "endOffset": 114362
+                    "endOffset": 114519
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8920,11 +8941,11 @@
             },
             {
                 "to": {
-                    "startLine": 1443,
+                    "startLine": 1446,
                     "startColumn": 4,
-                    "startOffset": 114367,
+                    "startOffset": 114524,
                     "endColumn": 67,
-                    "endOffset": 114430
+                    "endOffset": 114587
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8939,12 +8960,12 @@
             },
             {
                 "to": {
-                    "startLine": 1444,
+                    "startLine": 1447,
                     "startColumn": 4,
-                    "startOffset": 114435,
-                    "endLine": 1445,
+                    "startOffset": 114592,
+                    "endLine": 1448,
                     "endColumn": 12,
-                    "endOffset": 114558
+                    "endOffset": 114715
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8960,12 +8981,12 @@
             },
             {
                 "to": {
-                    "startLine": 1446,
+                    "startLine": 1449,
                     "startColumn": 4,
-                    "startOffset": 114563,
-                    "endLine": 1447,
+                    "startOffset": 114720,
+                    "endLine": 1450,
                     "endColumn": 12,
-                    "endOffset": 114702
+                    "endOffset": 114859
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -8981,12 +9002,12 @@
             },
             {
                 "to": {
-                    "startLine": 1448,
+                    "startLine": 1451,
                     "startColumn": 4,
-                    "startOffset": 114707,
-                    "endLine": 1449,
+                    "startOffset": 114864,
+                    "endLine": 1452,
                     "endColumn": 12,
-                    "endOffset": 114830
+                    "endOffset": 114987
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9002,11 +9023,11 @@
             },
             {
                 "to": {
-                    "startLine": 1450,
+                    "startLine": 1453,
                     "startColumn": 4,
-                    "startOffset": 114835,
+                    "startOffset": 114992,
                     "endColumn": 68,
-                    "endOffset": 114899
+                    "endOffset": 115056
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9021,11 +9042,11 @@
             },
             {
                 "to": {
-                    "startLine": 1451,
+                    "startLine": 1454,
                     "startColumn": 4,
-                    "startOffset": 114904,
+                    "startOffset": 115061,
                     "endColumn": 94,
-                    "endOffset": 114994
+                    "endOffset": 115151
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9040,11 +9061,11 @@
             },
             {
                 "to": {
-                    "startLine": 1452,
+                    "startLine": 1455,
                     "startColumn": 4,
-                    "startOffset": 114999,
+                    "startOffset": 115156,
                     "endColumn": 114,
-                    "endOffset": 115109
+                    "endOffset": 115266
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9059,11 +9080,11 @@
             },
             {
                 "to": {
-                    "startLine": 1453,
+                    "startLine": 1456,
                     "startColumn": 4,
-                    "startOffset": 115114,
+                    "startOffset": 115271,
                     "endColumn": 112,
-                    "endOffset": 115222
+                    "endOffset": 115379
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9078,11 +9099,11 @@
             },
             {
                 "to": {
-                    "startLine": 1454,
+                    "startLine": 1457,
                     "startColumn": 4,
-                    "startOffset": 115227,
+                    "startOffset": 115384,
                     "endColumn": 98,
-                    "endOffset": 115321
+                    "endOffset": 115478
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9097,11 +9118,11 @@
             },
             {
                 "to": {
-                    "startLine": 1455,
+                    "startLine": 1458,
                     "startColumn": 4,
-                    "startOffset": 115326,
+                    "startOffset": 115483,
                     "endColumn": 108,
-                    "endOffset": 115430
+                    "endOffset": 115587
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9116,11 +9137,11 @@
             },
             {
                 "to": {
-                    "startLine": 1456,
+                    "startLine": 1459,
                     "startColumn": 4,
-                    "startOffset": 115435,
+                    "startOffset": 115592,
                     "endColumn": 110,
-                    "endOffset": 115541
+                    "endOffset": 115698
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9135,11 +9156,11 @@
             },
             {
                 "to": {
-                    "startLine": 1457,
+                    "startLine": 1460,
                     "startColumn": 4,
-                    "startOffset": 115546,
+                    "startOffset": 115703,
                     "endColumn": 110,
-                    "endOffset": 115652
+                    "endOffset": 115809
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9154,11 +9175,11 @@
             },
             {
                 "to": {
-                    "startLine": 1458,
+                    "startLine": 1461,
                     "startColumn": 4,
-                    "startOffset": 115657,
+                    "startOffset": 115814,
                     "endColumn": 100,
-                    "endOffset": 115753
+                    "endOffset": 115910
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9173,11 +9194,11 @@
             },
             {
                 "to": {
-                    "startLine": 1459,
+                    "startLine": 1462,
                     "startColumn": 4,
-                    "startOffset": 115758,
+                    "startOffset": 115915,
                     "endColumn": 104,
-                    "endOffset": 115858
+                    "endOffset": 116015
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9192,12 +9213,12 @@
             },
             {
                 "to": {
-                    "startLine": 1460,
+                    "startLine": 1463,
                     "startColumn": 4,
-                    "startOffset": 115863,
-                    "endLine": 1461,
+                    "startOffset": 116020,
+                    "endLine": 1464,
                     "endColumn": 12,
-                    "endOffset": 115970
+                    "endOffset": 116127
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9213,12 +9234,12 @@
             },
             {
                 "to": {
-                    "startLine": 1462,
+                    "startLine": 1465,
                     "startColumn": 4,
-                    "startOffset": 115975,
-                    "endLine": 1463,
+                    "startOffset": 116132,
+                    "endLine": 1466,
                     "endColumn": 12,
-                    "endOffset": 116100
+                    "endOffset": 116257
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9234,11 +9255,11 @@
             },
             {
                 "to": {
-                    "startLine": 1464,
+                    "startLine": 1467,
                     "startColumn": 4,
-                    "startOffset": 116105,
+                    "startOffset": 116262,
                     "endColumn": 90,
-                    "endOffset": 116191
+                    "endOffset": 116348
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9253,11 +9274,11 @@
             },
             {
                 "to": {
-                    "startLine": 1465,
+                    "startLine": 1468,
                     "startColumn": 4,
-                    "startOffset": 116196,
+                    "startOffset": 116353,
                     "endColumn": 122,
-                    "endOffset": 116314
+                    "endOffset": 116471
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9272,12 +9293,12 @@
             },
             {
                 "to": {
-                    "startLine": 1466,
+                    "startLine": 1469,
                     "startColumn": 4,
-                    "startOffset": 116319,
-                    "endLine": 1467,
+                    "startOffset": 116476,
+                    "endLine": 1470,
                     "endColumn": 12,
-                    "endOffset": 116426
+                    "endOffset": 116583
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9293,11 +9314,11 @@
             },
             {
                 "to": {
-                    "startLine": 1468,
+                    "startLine": 1471,
                     "startColumn": 4,
-                    "startOffset": 116431,
+                    "startOffset": 116588,
                     "endColumn": 85,
-                    "endOffset": 116512
+                    "endOffset": 116669
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9312,11 +9333,11 @@
             },
             {
                 "to": {
-                    "startLine": 1469,
+                    "startLine": 1472,
                     "startColumn": 4,
-                    "startOffset": 116517,
+                    "startOffset": 116674,
                     "endColumn": 103,
-                    "endOffset": 116616
+                    "endOffset": 116773
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9331,12 +9352,12 @@
             },
             {
                 "to": {
-                    "startLine": 1470,
+                    "startLine": 1473,
                     "startColumn": 4,
-                    "startOffset": 116621,
-                    "endLine": 1471,
+                    "startOffset": 116778,
+                    "endLine": 1474,
                     "endColumn": 12,
-                    "endOffset": 116724
+                    "endOffset": 116881
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9352,12 +9373,12 @@
             },
             {
                 "to": {
-                    "startLine": 1472,
+                    "startLine": 1475,
                     "startColumn": 4,
-                    "startOffset": 116729,
-                    "endLine": 1473,
+                    "startOffset": 116886,
+                    "endLine": 1476,
                     "endColumn": 12,
-                    "endOffset": 116824
+                    "endOffset": 116981
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9373,12 +9394,12 @@
             },
             {
                 "to": {
-                    "startLine": 1474,
+                    "startLine": 1477,
                     "startColumn": 4,
-                    "startOffset": 116829,
-                    "endLine": 1475,
+                    "startOffset": 116986,
+                    "endLine": 1478,
                     "endColumn": 12,
-                    "endOffset": 116942
+                    "endOffset": 117099
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9394,12 +9415,12 @@
             },
             {
                 "to": {
-                    "startLine": 1476,
+                    "startLine": 1479,
                     "startColumn": 4,
-                    "startOffset": 116947,
-                    "endLine": 1477,
+                    "startOffset": 117104,
+                    "endLine": 1480,
                     "endColumn": 12,
-                    "endOffset": 117046
+                    "endOffset": 117203
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9415,12 +9436,12 @@
             },
             {
                 "to": {
-                    "startLine": 1478,
+                    "startLine": 1481,
                     "startColumn": 4,
-                    "startOffset": 117051,
-                    "endLine": 1479,
+                    "startOffset": 117208,
+                    "endLine": 1482,
                     "endColumn": 12,
-                    "endOffset": 117150
+                    "endOffset": 117307
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9436,12 +9457,12 @@
             },
             {
                 "to": {
-                    "startLine": 1480,
+                    "startLine": 1483,
                     "startColumn": 4,
-                    "startOffset": 117155,
-                    "endLine": 1481,
+                    "startOffset": 117312,
+                    "endLine": 1484,
                     "endColumn": 12,
-                    "endOffset": 117276
+                    "endOffset": 117433
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9457,11 +9478,11 @@
             },
             {
                 "to": {
-                    "startLine": 1482,
+                    "startLine": 1485,
                     "startColumn": 4,
-                    "startOffset": 117281,
+                    "startOffset": 117438,
                     "endColumn": 87,
-                    "endOffset": 117364
+                    "endOffset": 117521
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9476,11 +9497,11 @@
             },
             {
                 "to": {
-                    "startLine": 1483,
+                    "startLine": 1486,
                     "startColumn": 4,
-                    "startOffset": 117369,
+                    "startOffset": 117526,
                     "endColumn": 89,
-                    "endOffset": 117454
+                    "endOffset": 117611
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9495,11 +9516,11 @@
             },
             {
                 "to": {
-                    "startLine": 1484,
+                    "startLine": 1487,
                     "startColumn": 4,
-                    "startOffset": 117459,
+                    "startOffset": 117616,
                     "endColumn": 109,
-                    "endOffset": 117564
+                    "endOffset": 117721
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9514,11 +9535,11 @@
             },
             {
                 "to": {
-                    "startLine": 1485,
+                    "startLine": 1488,
                     "startColumn": 4,
-                    "startOffset": 117569,
+                    "startOffset": 117726,
                     "endColumn": 83,
-                    "endOffset": 117648
+                    "endOffset": 117805
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9533,11 +9554,11 @@
             },
             {
                 "to": {
-                    "startLine": 1486,
+                    "startLine": 1489,
                     "startColumn": 4,
-                    "startOffset": 117653,
+                    "startOffset": 117810,
                     "endColumn": 53,
-                    "endOffset": 117702
+                    "endOffset": 117859
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9552,11 +9573,11 @@
             },
             {
                 "to": {
-                    "startLine": 1487,
+                    "startLine": 1490,
                     "startColumn": 4,
-                    "startOffset": 117707,
+                    "startOffset": 117864,
                     "endColumn": 63,
-                    "endOffset": 117766
+                    "endOffset": 117923
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9571,11 +9592,11 @@
             },
             {
                 "to": {
-                    "startLine": 1488,
+                    "startLine": 1491,
                     "startColumn": 4,
-                    "startOffset": 117771,
+                    "startOffset": 117928,
                     "endColumn": 105,
-                    "endOffset": 117872
+                    "endOffset": 118029
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9590,11 +9611,11 @@
             },
             {
                 "to": {
-                    "startLine": 1489,
+                    "startLine": 1492,
                     "startColumn": 4,
-                    "startOffset": 117877,
+                    "startOffset": 118034,
                     "endColumn": 109,
-                    "endOffset": 117982
+                    "endOffset": 118139
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9609,11 +9630,11 @@
             },
             {
                 "to": {
-                    "startLine": 1490,
+                    "startLine": 1493,
                     "startColumn": 4,
-                    "startOffset": 117987,
+                    "startOffset": 118144,
                     "endColumn": 83,
-                    "endOffset": 118066
+                    "endOffset": 118223
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",
@@ -9628,11 +9649,11 @@
             },
             {
                 "to": {
-                    "startLine": 1491,
+                    "startLine": 1494,
                     "startColumn": 4,
-                    "startOffset": 118071,
+                    "startOffset": 118228,
                     "endColumn": 119,
-                    "endOffset": 118186
+                    "endOffset": 118343
                 },
                 "from": {
                     "file": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml",

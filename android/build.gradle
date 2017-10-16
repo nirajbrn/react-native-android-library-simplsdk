@@ -44,5 +44,5 @@ repositories {
 
 dependencies {
     compile 'com.facebook.react:react-native:+'
-    compile "com.simpl.android:sdk:1.1.+"
+    compile "com.simpl.android:sdk:1.1.22"
 }

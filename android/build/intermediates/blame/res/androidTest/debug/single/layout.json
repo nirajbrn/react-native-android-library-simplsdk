@@ -56,6 +56,10 @@
         "source": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_bar.xml"
     },
     {
+        "merged": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/res/merged/androidTest/debug/layout/__fragment_simpl_web_view.xml",
+        "source": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.simpl.android/sdk/1.1.22/res/layout/__fragment_simpl_web_view.xml"
+    },
+    {
         "merged": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/res/merged/androidTest/debug/layout/abc_screen_simple_overlay_action_mode.xml",
         "source": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
@@ -134,6 +138,10 @@
     {
         "merged": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/res/merged/androidTest/debug/layout/abc_list_menu_item_checkbox.xml",
         "source": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/res/merged/androidTest/debug/layout/__activity_simpl.xml",
+        "source": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.simpl.android/sdk/1.1.22/res/layout/__activity_simpl.xml"
     },
     {
         "merged": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/res/merged/androidTest/debug/layout/abc_action_menu_layout.xml",
