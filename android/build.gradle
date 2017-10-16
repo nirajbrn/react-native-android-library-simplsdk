@@ -34,6 +34,9 @@ android {
         abortOnError false
     }
 }
+repositories {
+    maven { url "http://maven.getsimpl.com"}
+}
 
 repositories {
     mavenCentral()
@@ -41,4 +44,5 @@ repositories {
 
 dependencies {
     compile 'com.facebook.react:react-native:+'
+    compile "com.simpl.android:sdk:1.1.+"
 }

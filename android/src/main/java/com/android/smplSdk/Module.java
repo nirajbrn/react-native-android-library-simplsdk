@@ -5,6 +5,8 @@ import android.widget.Toast;
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;
 import com.facebook.react.bridge.ReactMethod;
+import com.simpl.android.sdk.Simpl;
+import com.simpl.android.sdk.SimplUserApprovalListenerV2;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -32,7 +34,21 @@ public class Module extends ReactContextBaseJavaModule {
   }
 
   @ReactMethod
-  public void show(String message, int duration) {
-    Toast.makeText(getReactApplicationContext(), message, duration).show();
+  public void show(String merchantId, String mobileNumber, String emailId) {
+    Simpl.init(getReactApplicationContext(), merchantId);
+
+    Simpl.getInstance().runInStagingMode();
+    Simpl.getInstance().isUserApproved("niraj@getsimpl.com", "9538651315")
+            .execute(new SimplUserApprovalListenerV2() {
+              @Override
+              public void onSuccess(boolean b, String s, boolean b1) {
+                Toast.makeText(getReactApplicationContext(), "User Approved : "+b, Toast.LENGTH_LONG).show();
+              }
+
+              @Override
+              public void onError(Throwable throwable) {
+                Toast.makeText(getReactApplicationContext(), "Error in User Approval :", Toast.LENGTH_LONG).show();
+              }
+            });
   }
 }

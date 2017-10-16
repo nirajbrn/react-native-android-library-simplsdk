@@ -12,12 +12,12 @@
         "source": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_select_dialog_material.xml"
-    },
-    {
         "merged": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
         "source": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_select_dialog_material.xml"
     },
     {
         "merged": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
@@ -112,8 +112,16 @@
         "source": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_lines.xml"
     },
     {
+        "merged": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/res/merged/debug/layout/__activity_simpl.xml",
+        "source": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.simpl.android/sdk/1.1.22/res/layout/__activity_simpl.xml"
+    },
+    {
         "merged": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
         "source": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/res/merged/debug/layout/__fragment_simpl_web_view.xml",
+        "source": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/exploded-aar/com.simpl.android/sdk/1.1.22/res/layout/__fragment_simpl_web_view.xml"
     },
     {
         "merged": "/Users/nirajbrn/ReactProject/react-native-android-library-simplsdk/android/build/intermediates/res/merged/debug/layout/redbox_view.xml",
