@@ -13,6 +13,11 @@ import java.util.List;
 public class SimplReactPackage implements ReactPackage {
 
     @Override
+    public List<ViewManager> createViewManagers(ReactApplicationContext reactContext) {
+        return Collections.emptyList();
+    }
+
+    @Override
     public List<NativeModule> createNativeModules(
             ReactApplicationContext reactContext) {
         List<NativeModule> modules = new ArrayList<>();
@@ -20,10 +25,5 @@ public class SimplReactPackage implements ReactPackage {
         modules.add(new Module(reactContext));
 
         return modules;
-    }
-
-    @Override
-    public List<Class<? extends JavaScriptModule>> createJSModules() {
-        return null;
     }
 }

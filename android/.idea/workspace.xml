@@ -71,12 +71,10 @@
       <file leaf-file-name="SimplReactPackage.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/android/smplSdk/SimplReactPackage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+            <state relative-caret-position="336">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#752#753#0" expanded="true" />
-                <element signature="e#779#780#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1430,12 +1428,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/android/smplSdk/SimplReactPackage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+        <state relative-caret-position="336">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#752#753#0" expanded="true" />
-            <element signature="e#779#780#0" expanded="true" />
           </folding>
         </state>
       </provider>
