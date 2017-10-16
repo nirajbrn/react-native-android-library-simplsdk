@@ -34,11 +34,11 @@ public class Module extends ReactContextBaseJavaModule {
   }
 
   @ReactMethod
-  public void show(String merchantId, String mobileNumber, String emailId) {
+  public void isApproved(String merchantId, String mobileNumber, String emailId) {
     Simpl.init(getReactApplicationContext(), merchantId);
 
     Simpl.getInstance().runInStagingMode();
-    Simpl.getInstance().isUserApproved("niraj@getsimpl.com", "9538651315")
+    Simpl.getInstance().isUserApproved(emailId, mobileNumber)
             .execute(new SimplUserApprovalListenerV2() {
               @Override
               public void onSuccess(boolean b, String s, boolean b1) {
