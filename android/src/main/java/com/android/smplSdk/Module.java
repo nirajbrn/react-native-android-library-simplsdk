@@ -3,6 +3,7 @@ package com.android.smplSdk;
 import android.util.Log;
 import android.widget.Toast;
 
+import com.facebook.react.bridge.Callback;
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;
 import com.facebook.react.bridge.ReactMethod;
@@ -37,7 +38,7 @@ public class Module extends ReactContextBaseJavaModule {
   }
 
   @ReactMethod
-  public void isApproved(String merchantId, String mobileNumber, String emailId) {
+  public void isApproved(String merchantId, String mobileNumber, String emailId, final Callback successCallback) {
     Simpl.init(getReactApplicationContext(), merchantId);
 
       Log.d(TAG, "isApproved(): merchantId: "+merchantId+" mobileNumber: "+mobileNumber+" emailId: "+emailId);
@@ -46,6 +47,7 @@ public class Module extends ReactContextBaseJavaModule {
             .execute(new SimplUserApprovalListenerV2() {
               @Override
               public void onSuccess(final boolean b, String s, boolean b1) {
+                  successCallback.invoke(b);
                   UiThreadUtil.runOnUiThread(new Runnable() {
                       @Override
                       public void run() {
