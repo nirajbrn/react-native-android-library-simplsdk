@@ -9,6 +9,8 @@ import com.facebook.react.bridge.ReactContextBaseJavaModule;
 import com.facebook.react.bridge.ReactMethod;
 import com.facebook.react.bridge.UiThreadUtil;
 import com.simpl.android.sdk.Simpl;
+import com.simpl.android.sdk.SimplAuthorizeTransactionListener;
+import com.simpl.android.sdk.SimplTransactionAuthorization;
 import com.simpl.android.sdk.SimplUserApprovalListenerV2;
 
 import java.util.HashMap;
@@ -67,4 +69,21 @@ public class Module extends ReactContextBaseJavaModule {
               }
             });
   }
+
+  @ReactMethod
+    public void authorizeTransaction(int transactionAmountInPaise, final Callback successCallback, final Callback errorCallback) {
+      Simpl.getInstance().authorizeTransaction(getReactApplicationContext(), transactionAmountInPaise)
+              .execute(new SimplAuthorizeTransactionListener() {
+                  @Override
+                  public void onSuccess(SimplTransactionAuthorization simplTransactionAuthorization) {
+                      successCallback.invoke(simplTransactionAuthorization.getTransactionToken());
+                  }
+
+                  @Override
+                  public void onError(Throwable throwable) {
+                      errorCallback.invoke(throwable.getMessage());
+                  }
+              });
+  }
+
 }
