@@ -43,7 +43,7 @@ public class Module extends ReactContextBaseJavaModule {
 
       Log.d(TAG, "isApproved(): merchantId: "+merchantId+" mobileNumber: "+mobileNumber+" emailId: "+emailId);
     Simpl.getInstance().runInStagingMode();
-    Simpl.getInstance().isUserApproved(emailId, mobileNumber)
+    Simpl.getInstance().isUserApproved(mobileNumber, emailId)
             .execute(new SimplUserApprovalListenerV2() {
               @Override
               public void onSuccess(final boolean b, String s, boolean b1) {
